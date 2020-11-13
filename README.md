@@ -4,6 +4,7 @@ Generates HAR files for desired URL on browsers(chrome, opera, msedge, etc)
 
 ## command 
  ConsoleApplication1.exe [browser name] [desired URL]
+ 
  e.g.
  ConsoleApplication1.exe chrome https://www.youtube.com/
  
